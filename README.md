@@ -27,4 +27,5 @@ There are 3 parameters controlling the algorithm, which can optionally be passed
 # Citing this work
 If you use the MCBL for work or a publication, please cite [the original article](https://rdcu.be/b32TH):
 
-Ament, S.E., Stein, H.S., Guevarra, D. et al. Multi-component background learning automates signal detection for spectroscopic data. npj Comput Mater 5, 77 (2019). https://doi.org/10.1038/s41524-019-0213-0
+Ament, Sebastian E., Helge S. Stein, Dan Guevarra, Lan Zhou, Joel A. Haber, David A. Boyd, Mitsutaro Umehara, John M. Gregoire, and Carla P. Gomes. "Multi-component background learning automates signal detection for spectroscopic data." npj Computational Materials 5, no. 1 (2019): 1-7.
+https://doi.org/10.1038/s41524-019-0213-0	
